@@ -47,8 +47,7 @@ body{
         height: 156px;
         background-image: url(../img/header\ bg-picture.png);
         background-repeat: no-repeat;
-        background-position: center center;
-        background-size: contain;  
+        background-position: center center; 
         margin-bottom: 76px;
         background-color: var(--text-color-h);
   }
