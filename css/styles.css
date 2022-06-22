@@ -48,8 +48,9 @@ body{
         background-image: url(../img/header\ bg-picture.png);
         background-repeat: no-repeat;
         background-position: center center;
-        background-size: cover;  
+        background-size: contain;  
         margin-bottom: 76px;
+        background-color: var(--text-color-h);
   }
   .main-content {
         flex-grow: 1;
